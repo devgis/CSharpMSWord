@@ -1,0 +1,16 @@
+E:\Temp\C#操作WORD文件\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Temp\C#操作WORD文件\obj\Debug\Interop.VBIDE.dll
+E:\Temp\C#操作WORD文件\obj\Debug\Interop.Word.dll
+E:\Temp\C#操作WORD文件\obj\Debug\File.csproj.ResolveComReference.cache
+E:\Temp\C#操作WORD文件\bin\Debug\File.exe
+E:\Temp\C#操作WORD文件\bin\Debug\File.pdb
+E:\Temp\C#操作WORD文件\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Temp\C#操作WORD文件\bin\Debug\Interop.VBIDE.dll
+E:\Temp\C#操作WORD文件\bin\Debug\Interop.Word.dll
+E:\Temp\C#操作WORD文件\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\C#操作WORD文件\obj\Debug\MyFile.Form1.resources
+E:\Temp\C#操作WORD文件\obj\Debug\File.Word.resources
+E:\Temp\C#操作WORD文件\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Temp\C#操作WORD文件\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Temp\C#操作WORD文件\obj\Debug\File.exe
+E:\Temp\C#操作WORD文件\obj\Debug\File.pdb
